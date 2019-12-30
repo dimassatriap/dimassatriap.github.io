@@ -11,13 +11,10 @@
 [Klik untuk melihat berkas](/pdf/14081017007_DimasSatria_Tugas8.pdf)
 <img src="images/preview-tugas8.png?raw=true"/>
 
-### Category Name 1 
+### PERSONAL PROJECTS 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+#### Skedulin Project
+[klik untuk deskripsi selanjutnya](/skedulin_readme)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
