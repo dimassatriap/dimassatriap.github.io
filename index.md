@@ -8,7 +8,7 @@
 [![Watch the video](images/ytb-riset-img.png?raw=true)](https://www.youtube.com/watch?v=2CoZmyxdKPA&t)
 
 #### Tugas 8: Proposal Skripsi
-[Klik untuk melihat berkas](/pdf/14081017007_DimasSatria_Tugas9.pdf)
+[Klik untuk melihat berkas](/pdf/14081017007_DimasSatria_Tugas8.pdf)
 <img src="images/preview-tugas8.png?raw=true"/>
 
 ### Category Name 1 
