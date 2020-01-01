@@ -30,22 +30,22 @@ Dengan mengunakan xampp dan framework PHP: CodeIgniter, anda dapat menajalankan 
   5. Jalankan web dengan 'localhost/Skedulin' pada browser anda
   
 ## Login Page ##
-![login](https://github.com/dimassatriap/Skedulin/blob/master/Mockup/Implementation/Login.png)
+![login](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/Login.png)
 
 ## Home ##
-![home](https://github.com/dimassatriap/Skedulin/blob/master/Mockup/Implementation/Home.png)
+![home](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/Home.png)
 
 ## MySchedule Page ##
-![MySchedule Page](https://github.com/dimassatriap/Skedulin/blob/master/Mockup/Implementation/MySchedule-Page.png)
+![MySchedule Page](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/MySchedule-Page.png)
 
 ## Make a new event ##
-![(MakeEvent)MySchedule-Page](https://github.com/dimassatriap/Skedulin/blob/master/Mockup/Implementation/(MakeEvent)MySchedule-Page.png)
+![(MakeEvent)MySchedule-Page](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/(MakeEvent)MySchedule-Page.png)
 
 ## Personalization Page ##
-![Personalization Page](https://github.com/dimassatriap/Skedulin/blob/master/Mockup/Implementation/Personalization-Page.png)
+![Personalization Page](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/Personalization-Page.png)
 
 ## Friend List Page ##
-![Friend List Page ](https://github.com/dimassatriap/Skedulin/blob/master/Mockup/Implementation/FriendsList-Page.png)
+![Friend List Page ](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/FriendsList-Page.png)
 
 
 
