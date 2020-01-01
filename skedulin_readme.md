@@ -30,13 +30,13 @@ Dengan mengunakan xampp dan framework PHP: CodeIgniter, anda dapat menajalankan 
   5. Jalankan web dengan 'localhost/Skedulin' pada browser anda
   
 ## Login Page ##
-![login](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/Login.png)
+<img src="https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/Login.png" />
 
 ## Home ##
-![home](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/Home.png)
+<img src="https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/Home.png" />
 
 ## MySchedule Page ##
-![MySchedule Page](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/MySchedule-Page.png)
+<img src="https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/MySchedule-Page.png" />
 
 ## Make a new event ##
 ![(MakeEvent)MySchedule-Page](https://raw.githubusercontent.com/dimassatriap/Skedulin/master/Mockup/Implementation/(MakeEvent)MySchedule-Page.png)
